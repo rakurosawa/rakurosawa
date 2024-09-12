@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+It's pretty likely I'm currently procrastinating on something. 🫣
+
 <!--
 **rakurosawa/rakurosawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
